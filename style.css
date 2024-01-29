@@ -3,16 +3,16 @@ body{
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.5;
     background-color:lightblue;
-    //color: chartreuse;
+    /*color: chartreuse;*/
     color:rgb(183, 10, 163);
 }
 p{
     color: black;
 }
 h1{
-    //color:rgb(183, 10, 163);
+    /*color:rgb(183, 10, 163);*/
     color: rgba(239, 98, 107, 46);
 }
 #nam{
-    //color: rgba(239, 98, 107, 46);
+    /*color: rgba(239, 98, 107, 46);*/
 }
